@@ -18,9 +18,9 @@ A primeira etapa é criar a base do nosso assistente.
 4.  **Idioma:** Selecione o idioma principal do seu Copilot (neste caso, Português).
 5.  Clique em **Criar**.
 
-Com isso, você terá um Copilot funcional, mas ainda com as configurações e tópicos padrão.
+Insira a descrição e instrução conforme imagem abaixo.
 
-![Configuração inicial do Copilot](https://i.imgur.com/u3s0Q3R.png )
+![Configuração inicial do Copilot](imagem_2025-09-30_103501077.png )
 
 ---
 
